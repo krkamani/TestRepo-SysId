@@ -2,6 +2,7 @@
     <element label="IncidentTable" max_length="40" name="x_snc_testrepo_sys_incidenttable" type="collection">
         <element label="Nume" max_length="80" name="numer" type="integer"/>
         <element label="state" max_length="32" name="state" reference="x_snc_testrepo_sys_state_table" type="reference"/>
+        <element label="states" max_length="4000" name="states" reference="x_snc_testrepo_sys_state_table" type="glide_list"/>
         <index name="index">
             <element name="state"/>
         </index>
