@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="numer" label="Numer" language="en" table="x_snc_testrepo_sys_incidenttable">
+    <sys_documentation element="numer" label="Nume" language="en" table="x_snc_testrepo_sys_incidenttable">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>numer</element>
             <help/>
             <hint/>
-            <label>Numer</label>
+            <label>Nume</label>
             <language>en</language>
             <name>x_snc_testrepo_sys_incidenttable</name>
-            <plural>Numers</plural>
+            <plural>Numes</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>krkamani</sys_created_by>
             <sys_created_on>2020-02-04 23:53:49</sys_created_on>
-            <sys_id>ba00fb81dbf2001043d852e4dc96190c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>Numer</sys_name>
+            <sys_id>e505b785dbf2001043d852e4dc96191c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Nume</sys_name>
             <sys_package display_value="TestRepo-SysId" source="x_snc_testrepo_sys">8ddf6781dbf2001043d852e4dc9619d6</sys_package>
             <sys_policy/>
             <sys_scope display_value="TestRepo-SysId">8ddf6781dbf2001043d852e4dc9619d6</sys_scope>
             <sys_update_name>sys_documentation_x_snc_testrepo_sys_incidenttable_numer_en</sys_update_name>
             <sys_updated_by>krkamani</sys_updated_by>
-            <sys_updated_on>2020-02-04 23:53:49</sys_updated_on>
+            <sys_updated_on>2020-02-05 00:20:38</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
